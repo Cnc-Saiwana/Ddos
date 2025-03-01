@@ -25,6 +25,13 @@ ulimit -n 999999
 chmod 777 *
 python3 Cnc.py
 ```
+#Example : Method "Target" Duration 
+```sh
+
+Target -- Website Linkထည့်
+Duration -- GET
+Method -- CNC
+```
 
 # CONTACT:
 ```sh
