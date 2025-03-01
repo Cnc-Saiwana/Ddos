@@ -1,6 +1,9 @@
-🚀 CNC TEAM : Release v1.0 - DDoS Panel 🚀
+<div align=center>
+ 
+# 🚀 CNC TEAM : Release v1.0 - DDoS Panel 🚀
 
-
+# Setup
+```sh
 git clone https://github.com/Cnc-Saiwana/Ddos.git
 cd Ddos/
 npm i requests
@@ -21,3 +24,9 @@ apt-get install ./google-chrome-stable_current_amd64.deb
 ulimit -n 999999
 chmod 777 *
 python3 Cnc.py
+```
+
+# CONTACT:
+```sh
+Telegram: @Cnc_Saiwana1
+```
